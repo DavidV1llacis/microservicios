@@ -1,5 +1,4 @@
 apache-tomee-microprofile-9.0.0
-/CreacionPedidos/target/
-/Catalogo/target/
+**/target/
 /IU-Ventas/
 apache-tomee-9.0.0-microprofile.tar.gz
